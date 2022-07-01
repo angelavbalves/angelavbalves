@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, I'm Angela Alves 👋
 
-<!--
-**angelavbalves/angelavbalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu GitHub! Conheça os projetos que estou desenvolendo durante minha formação acadêmica e também os que estou realizando em meus estudos extracurriculares com Swift.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente não estou trabalhando. Estou à procura da minha primeira oportunidade.
+- 🌱 Acadêmica de Análise e Desenvolvimento de Sistemas .
+- 😄 Pronomes: Ela/Dela.
+- ⚡ Fun fact: *apaixonada* por livros 📚❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Social Links 
+  <a href="https://www.instagram.com/angelavbalves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "angelavbalves@rede.ulbra.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/angelavbalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
