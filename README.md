@@ -16,9 +16,9 @@ Conheça os projetos que estou desenvolvendo durante minha formação acadêmica
 Welcome to my GitHub! <br>
 Take a look the projects I'm developing during my academic training and also the ones I'm doing in my extracurricular studies with Swift.
 
-- 🔭 Atualmente não estou trabalhando. Estou à procura da minha primeira oportunidade.
-- 🌱 Acadêmica de Análise e Desenvolvimento de Sistemas .
-- ⚡ Fun fact: *apaixonada* por livros 📚❤️
+- 🔭 I'm currently not working. I'm looking for my first chance.
+- 🌱 Systems Analysis and Development Academic.
+- ⚡ Fun fact: *lover* for books 📚❤️
 - ✉️  angelavbalves@rede.ulbra.br
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelavbalves&theme=tokyonight)
