@@ -3,7 +3,7 @@
 Seja bem-vindo ao meu GitHub! <br>
 Conheça os projetos que estou desenvolvendo durante minha formação acadêmica e também os que estou realizando em meus estudos extracurriculares com Swift.
 
-- 🔭 Atualmente não estou trabalhando. Estou à procura da minha primeira oportunidade.
+- 🔭 Trabalhando como desenvolvedora iOS na Stone Co.
 - 🌱 Acadêmica de Análise e Desenvolvimento de Sistemas .
 - ⚡ Fun fact: *apaixonada* por livros 📚❤️
 - ✉️  angelavbalves@rede.ulbra.br
@@ -16,7 +16,7 @@ Conheça os projetos que estou desenvolvendo durante minha formação acadêmica
 Welcome to my GitHub! <br>
 Take a look the projects I'm developing during my academic training and also the ones I'm doing in my extracurricular studies with Swift.
 
-- 🔭 I'm currently not working. I'm looking for my first chance.
+- 🔭 Working at Stone Co.
 - 🌱 Systems Analysis and Development Academic.
 - ⚡ Fun fact: *lover* for books 📚❤️
 - ✉️  angelavbalves@rede.ulbra.br
